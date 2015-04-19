@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hulk/Desktop/Dice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/hulk/Desktop/Dice/app/build/intermediates/pre-dexed/debug/classes-17921fbb5d9bd9f80120f26456ed60e1a73594a9.jar" />
+    </item>
+    <item
+        jar="/home/hulk/Desktop/Dice/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/hulk/Desktop/Dice/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-0653141009c344f4049114043e926f5fd07a845c.jar" />
+    </item>
+    <item
+        jar="/home/hulk/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/hulk/Desktop/Dice/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-56a9c36d3eaadb0ad37680fea46e740d3de4ce58.jar" />
+    </item>
+    <item
+        jar="/home/hulk/Desktop/Dice/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/hulk/Desktop/Dice/app/build/intermediates/pre-dexed/debug/classes-f05c977ea4bd4af34b98035a6e11179eb85ff146.jar" />
+    </item>
+
+</items>
